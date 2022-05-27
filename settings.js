@@ -23,7 +23,7 @@ const collectionInfo = {
   },
 }
 const mintInfo = {
-    price: 0.01,
+    price: 2.1,
     totalSupply: 150,
     minUnits: 1,
     maxUnits: 1,
