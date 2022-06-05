@@ -6,7 +6,7 @@ const x20Ethereum = 'ETH ADRESS'
 const collectionInfo = {
   name: 'New Ape Serum',
   title: 'New Ape Serum',
-  date: '28.07.2022',
+  date: '28.10.2022',
   socialMedia: {
     discord: 'https://discord.gg/',
     twitter: 'https://twitter.com',
@@ -23,7 +23,7 @@ const collectionInfo = {
   },
 }
 const mintInfo = {
-    price: 0.2,
+    price: 0.4,
     totalSupply: 150,
     minUnits: 1,
     maxUnits: 1,
